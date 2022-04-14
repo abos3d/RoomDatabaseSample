@@ -1,4 +1,4 @@
-package com.saudivts.roomdatabasesample
+package com.abos3d.roomdatabasesample
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

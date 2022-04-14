@@ -1,7 +1,6 @@
-package com.saudivts.roomdatabasesample
+package com.abos3d.roomdatabasesample
 
 import androidx.room.*
-import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface UserDao {
